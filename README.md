@@ -1,7 +1,12 @@
 # Heyyo, I'm Afifah! 
 
-- 🌱 I’m currently learning about front-end & back end
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/afifahia/)
+A highly dedicated and passionate information system undergraduate student who is currently looking to explore a new opportunity in the software development area.
+
+I'm currently active as a student of SIB at [Dicoding](https://www.dicoding.com/) to learn about Front-End Web and Back-End.
+
+📫 How to reach me:<br>
+- [Linkedin](https://www.linkedin.com/in/afifahia/)
+- [Email](afifahindaharini@gmail.com)
 
 ### GitHub Statistic
 <p align="left">

@@ -1,4 +1,4 @@
-# Heyyo, I'm Afifah! 
+# Heyyo👋, I'm Afifah! 
 
 A highly dedicated and passionate information system undergraduate student who is currently looking to explore a new opportunity in the software development area.
 

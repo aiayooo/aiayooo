@@ -6,7 +6,7 @@ I'm currently active as a student of SIB at [Dicoding](https://www.dicoding.com/
 
 📫 How to reach me:<br>
 - [Linkedin](https://www.linkedin.com/in/afifahia/)
-- [Email](afifahindaharini@gmail.com)
+- [Email](mailto:afifahindaharini@gmail.com)
 
 ### GitHub Statistic
 <p align="left">

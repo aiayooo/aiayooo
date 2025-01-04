@@ -1,8 +1,6 @@
 # Heyyo👋, I'm Afifah! 
 
-A highly dedicated and passionate information system undergraduate student who is currently looking to explore a new opportunity in the software development area.
-
-I'm currently active as a student of SIB at [Dicoding](https://www.dicoding.com/) to learn about Front-End Web and Back-End.
+A highly dedicated and passionate information system undergraduate student who is currently looking to explore a new opportunity in the database engineering.
 
 📫 How to reach me:<br>
 - [Linkedin](https://www.linkedin.com/in/afifahia/)
